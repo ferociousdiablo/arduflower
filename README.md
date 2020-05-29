@@ -9,6 +9,12 @@ I was working on a sound reactive mode, but as this is my first Arduino project 
 
 When tuning the boost converter, do so BEFORE connecting to the main circuit. I found mine was set to 24v when I got it! Adjust and check with a meter as the display may not be 100% accurate
 
+# Crude circuit diagram
+
+![CircuitDiagram](images/arduflower_diagram.png?raw=true)
+
+# Prototype build
+
 ![PrototypeImage](images/arduflower_prototype.jpg?raw=true)
 
 Parts used:
