@@ -40,6 +40,13 @@ Used original PSU and 50k potentiometer.
 
 *Links are amazon associate links which means I get a little tip if you use them, you pay no more than usual by doing this.
 
+# To Do
+
+Improve LED mount STL to add some better way to attach the board to it. Currently I am using sellotape, you could glue it in place.
+Make 3D Printed mount for arduino nano so its not just floating around inside the case.
+Figure out how to make a sound reactive mode / BPM counter from line input.
+Moar and betterer patternz!
+
 # Crude circuit diagram
 
 ![CircuitDiagram](images/arduflower_diagram.png?raw=true)
