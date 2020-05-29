@@ -1,11 +1,9 @@
 # arduflower
 Arduino based moonflower disco light
 
-I modified a cheap disco light I got from amazon to improve it. It looks much better with some vapour / smoke in the air. This video was in a moderately clear room. The modfied light is brighter than the original and has more spread too, so it works really nicely in my living room!
-
 This is my first ever project on github, and also the first time I have written code from scratch for a very long time. There are likely to be bugs, I have tested and the code runs fine for hours so nothing major at least! You flash and make any modifcations at your own risk. Test all connections and check for shorts before applying power! Be careful of the PSU as it has mains voltage running through it when live.
 
-I used a WS2812b 8x8 LED matrix which is attached to a 3D printed piece so it slots in where the old LED board used to be. I have used the original PSU that came in the light, and a boost converter to bring it up to a solid 5v as it was only putting out 4.2v. This is powering an Arudino Nano running some FastLED matrix code which I have been using to make moonflower type patterns for beam effects. I have made around 30 patterns so far. I have also used the original potentiometer to adjust the speed of the patterns so its possible to match it to music somewhat.
+I used a WS2812b 8x8 LED matrix which is attached to a 3D printed piece so it slots in where the old LED board used to be. I have used the original PSU that came in the light, and a boost converter to bring it up to a solid 5v as it was only putting out 4.2v. This is powering an Arudino Nano running some FastLED matrix code which I have been using to make moonflower type patterns for beam effects. I have made around 30 patterns so far. I have also used the original potentiometer to adjust the speed of the patterns so its possible to match it to music somewhat. The modified light has a much better spread than the original, and is also brighter! The beam effects are like a poor mans laser scanner :)
 
 ![PrototypeImage](images/arduflower_prototype.jpg?raw=true)
 
