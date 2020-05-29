@@ -17,6 +17,16 @@ If anyone knows of a way to get this any brighter I am open to all suggestions!
 
 I hope this is useful to someone, I think its kinda cool ;)
 
+# How it works
+
+The code makes a list of available patterns called gPatterns. I wanted to ensure that patterns would be shown only once per rotation, so I make an array holding numbers from 0 to the total number of patterns in gPatterns. The code then shuffles the array of numbers using a simple swap routine. I started originally by using a random generator and switch, however this sometimes ended up causing large delays as it worked its way to the end of available patterns.
+
+The random colour generator works in a similar way, holding an array of 0 to 6 and then shuffling them each time pickcolourset is called. Then we use this array to assign colours to colour1, colour2, colour3 and colour4 for use in the effects by using a switch command on the first 4 variables from the array.
+
+The potentiometer is used to adjust the delay between each frame, it could be easily tweaked to adjust the amount of time a pattern is shown for and then use a fixed number for the delay between each frame.
+
+The patterns themselves are made using fastLED matrix commands, I haven't been able to find a guide to what is actually available so have figured out what I am using by going through the example code.
+
 # Parts List
 
 RGBW Airship disco light - https://amzn.to/2XGAL9M<br>
