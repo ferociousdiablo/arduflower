@@ -17,14 +17,6 @@ If anyone knows of a way to get this any brighter I am open to all suggestions!
 
 I hope this is useful to someone, I think its kinda cool ;)
 
-# Crude circuit diagram
-
-![CircuitDiagram](images/arduflower_diagram.png?raw=true)
-
-# Prototype build
-
-![PrototypeImage](images/arduflower_prototype.jpg?raw=true)
-
 # Parts List
 
 RGBW Airship disco light - https://amzn.to/2XGAL9M<br>
@@ -35,6 +27,14 @@ Arduino Nano - Listing is for 3 - https://amzn.to/2XFu1Jb<br>
 Used original PSU and 50k potentiometer.
 
 *Links are amazon associate links which means I get a little tip if you use them, you pay no more than usual by doing this.
+
+# Crude circuit diagram
+
+![CircuitDiagram](images/arduflower_diagram.png?raw=true)
+
+# Prototype build
+
+![PrototypeImage](images/arduflower_prototype.jpg?raw=true)
 
 # Demo Video
 Click picture to go to video as I can't embed apparently.
