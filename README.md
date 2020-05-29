@@ -53,6 +53,8 @@ Used original PSU and 50k potentiometer.
 
 # Crude circuit diagram
 
+I hope people can follow this. Not included in the picture is a 12v fan which is soldered to the pads next to the output socket on the original PSU. It runs very quieltly on the 4.2v ish output from the PSU.
+
 ![CircuitDiagram](images/arduflower_diagram.png?raw=true)
 
 # Original Internals
@@ -63,9 +65,13 @@ Borrowed this frame from bigclivedotcom's video on youtube as I didn't think to 
 
 # Prototype build
 
+You can't really see it, however the arduino nano is the black heatshrinked thing in the top right of the case with wires coming out of it. I really need to make a proper mount for it...
+
 ![PrototypeImage](images/arduflower_prototype.jpg?raw=true)
 
 # Demo Video
-Click picture to go to video as I can't embed apparently.
+Please click on the picture or the link below to go to the video as I can't embed apparently.
+
+https://www.youtube.com/watch?v=sVy2k0N5fuQ
 
 [![arduflower_video](images/youtube_frame.png)](https://www.youtube.com/watch?v=sVy2k0N5fuQ)
