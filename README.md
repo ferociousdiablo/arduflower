@@ -62,4 +62,4 @@ Used original PSU and 50k potentiometer.
 # Demo Video
 Click picture to go to video as I can't embed apparently.
 
-[![arduflower_video](https://img.youtube.com/vi/sVy2k0N5fuQ/0.jpg)](https://www.youtube.com/watch?v=sVy2k0N5fuQ)
+[![arduflower_video](images/youtube_frame.png)](https://www.youtube.com/watch?v=sVy2k0N5fuQ)
