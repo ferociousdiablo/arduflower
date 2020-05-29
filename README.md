@@ -27,6 +27,8 @@ The potentiometer is used to adjust the delay between each frame, it could be ea
 
 The patterns themselves are made using fastLED matrix commands, I haven't been able to find a guide to what is actually available so have figured out what I am using by going through the example code.
 
+If you add a pattern, be sure to add its name to the gPatterns list so that it gets included in the rotation!
+
 # Parts List
 
 RGBW Airship disco light - https://amzn.to/2XGAL9M<br>
