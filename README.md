@@ -17,7 +17,7 @@ When tuning the boost converter, do so BEFORE connecting to the main circuit. I 
 
 ![PrototypeImage](images/arduflower_prototype.jpg?raw=true)
 
-#Parts List
+# Parts List
 
 RGBW Airship disco light - https://amzn.to/2XGAL9M<br>
 8x8 2812b LED matrix - https://amzn.to/2XFtiHX<br>
