@@ -1,5 +1,5 @@
 # arduflower
-Arduino based moonflower disco light
+# Arduino based moonflower disco light
 
 This is my first ever project on github, and also the first time I have written code from scratch for a very long time. There are likely to be bugs, I have tested and the code runs fine for hours so nothing major at least! You flash and make any modifcations at your own risk. Test all connections and check for shorts before applying power! Be careful of the PSU as it has mains voltage running through it when live.
 
@@ -17,11 +17,14 @@ When tuning the boost converter, do so BEFORE connecting to the main circuit. I 
 
 ![PrototypeImage](images/arduflower_prototype.jpg?raw=true)
 
-Parts used:
+#Parts List
+
 RGBW Airship disco light - https://amzn.to/2XGAL9M<br>
 8x8 2812b LED matrix - https://amzn.to/2XFtiHX<br>
 Arduino Nano - Listing is for 3 - https://amzn.to/2XFu1Jb<br>
 5v boost converter - https://amzn.to/2X9dmPl
+
+Used original PSU and 50k potentiometer.
 
 *Links are amazon associate links which means I get a little tip if you use them, you pay no more than usual by doing this.
 
