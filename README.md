@@ -7,6 +7,8 @@ I used a WS2812b 8x8 LED matrix which is attached to a 3D printed piece so it sl
 
 I was working on a sound reactive mode, but as this is my first Arduino project from scratch that part is stumping me for now. I have the input side all worked out using a voltage divider for a line in input and get what look like useful readings from the analog input, but am unsure how to make a BPM detector that would work alongside my code for the moonflower patterns. I will keep working on it but if anyone can suggest how to do it I would be very grateful!
 
+The fan in the picture is a 12v fan, its connected to the spare pads on the PSU which are putting out around 4.2v under load. Its just to keep some air flowing through the light. Due to being a 12v fan running on 4.2v it is almost silent.
+
 Some code is borrowed from the fastLED and fastLED matrix example files, they have been a great resource for learning how to address the matrix.
 
 If anyone knows of a way to get this any brighter I am open to all suggestions!
