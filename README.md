@@ -31,10 +31,10 @@ If you add a pattern, be sure to add its name to the gPatterns list so that it g
 
 # Parts List
 
-RGBW Airship disco light - https://amzn.to/2XGAL9M<br>
-8x8 2812b LED matrix - https://amzn.to/2XFtiHX<br>
-Arduino Nano - Listing is for 3 - https://amzn.to/2XFu1Jb<br>
-5v boost converter - https://amzn.to/2X9dmPl
+* RGBW Airship disco light - https://amzn.to/2XGAL9M
+* 8x8 2812b LED matrix - https://amzn.to/2XFtiHX
+* Arduino Nano - Listing is for 3 - https://amzn.to/2XFu1Jb
+* 5v boost converter - https://amzn.to/2X9dmPl
 
 Used original PSU and 50k potentiometer.
 
