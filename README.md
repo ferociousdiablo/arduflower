@@ -55,6 +55,12 @@ Used original PSU and 50k potentiometer.
 
 ![CircuitDiagram](images/arduflower_diagram.png?raw=true)
 
+# Original Internals
+
+Borrowed this frame from bigclivedotcom's video on youtube as I didn't think to take a picture before I ripped it all apart. I hope he doesn't mind if he see's this :) You should go watch his video here https://www.youtube.com/watch?v=sWjRAizFKho to see another modification for this light!
+
+![Bigcliveframe](images/bigclivedotcom_frame.png?raw=true)
+
 # Prototype build
 
 ![PrototypeImage](images/arduflower_prototype.jpg?raw=true)
