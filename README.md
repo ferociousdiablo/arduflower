@@ -11,7 +11,11 @@ I was working on a sound reactive mode, but as this is my first Arduino project 
 
 When tuning the boost converter, do so BEFORE connecting to the main circuit. I found mine was set to 24v when I got it! Adjust and check with a meter as the display may not be 100% accurate
 
+Some code is borrowed from the fastLED and fastLED matrix example files, they have been a great resource for learning how to address the matrix.
+
 If anyone knows of a way to get this any brighter I am open to all suggestions!
+
+I hope this is useful to someone, I think its kinda cool ;)
 
 # Crude circuit diagram
 
@@ -36,5 +40,3 @@ Used original PSU and 50k potentiometer.
 Click picture to go to video as I can't embed apparently.
 
 [![arduflower_video](https://img.youtube.com/vi/sVy2k0N5fuQ/0.jpg)](https://www.youtube.com/watch?v=sVy2k0N5fuQ)
-
-Some code is borrowed from the fastLED and fastLED matrix example files, they have been a great resource for learning how to address the matrix.
