@@ -55,7 +55,7 @@ Used original PSU and 50k potentiometer.
 
 # Crude circuit diagram
 
-I hope people can follow this. Not included in the picture is a 12v fan which is soldered to the pads next to the output socket on the original PSU. It runs very quieltly on the 4.2v ish output from the PSU.
+I hope people can follow this. Not included in the picture is a 12v fan which is soldered to the pads next to the output socket on the original PSU. It runs very quietly on the 4.2v ish output from the PSU.
 
 ![CircuitDiagram](images/arduflower_diagram.png?raw=true)
 
